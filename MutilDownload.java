@@ -18,7 +18,7 @@ import com.liliangcai.download.MutilDownload.DownloadThread;
 public class MutilDownload {
 
 	// 获取文件路径
-	static String path = "http://down.sandai.net/thunderx/XunLeiWebSetup10.1.15.448.exe";
+	static String path = " download path ";
 	private static final int threadCount = 3;
 	private static int runningThread;
 
